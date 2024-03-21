@@ -22,4 +22,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Note
 
-In order to load the data on this site, you need to get a [`free API key from Unsplash`](https://unsplash.com/developers) and add it to your <span style="color:IndianRed ">**.env.local**</span> file as <span style="color:IndianRed" >**UNSPLASH_API_KEY**</span>.
+In order to load the data on this site, you need to get a [`free API key from Unsplash`](https://unsplash.com/developers) and add it to your `.env.local` file as `UNSPLASH_API_KEY`.
